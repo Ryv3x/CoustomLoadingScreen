@@ -167,7 +167,7 @@ G2L["13"]["BackgroundTransparency"] = 1;
 G2L["13"]["AnchorPoint"] = Vector2.new(0, 0.5);
 G2L["13"]["Size"] = UDim2.new(0, 50, 0, 50);
 G2L["13"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["13"]["Text"] = [[ ?? ]];
+G2L["13"]["Text"] = [[ 🌐 ]];
 G2L["13"]["Position"] = UDim2.new(0.02719, 0, 0.5, 0);
 
 
@@ -254,7 +254,7 @@ local script = G2L["18"];
 	local button = main:WaitForChild("DoNotTouch"):WaitForChild("ImageButton")
 	
 	-- =========================
-	-- ?? AVATAR
+	-- 👋 AVATAR
 	-- =========================
 	task.spawn(function()
 		local img = Players:GetUserThumbnailAsync(
@@ -266,7 +266,7 @@ local script = G2L["18"];
 	end)
 	
 	-- =========================
-	-- ?? STROKE PULSE
+	-- 👋 STROKE PULSE
 	-- =========================
 	if stroke then
 		task.spawn(function()
@@ -289,7 +289,7 @@ local script = G2L["18"];
 	end
 	
 	-- =========================
-	-- ?? SMOOTH LOADING (20s ? 99.6%)
+	-- 👋 SMOOTH LOADING (20s ? 99.6%)
 	-- =========================
 	task.spawn(function()
 		local duration = 20
@@ -319,7 +319,7 @@ local script = G2L["18"];
 	end)
 	
 	-- =========================
-	-- ?? COPY BUTTON (CROSS PLATFORM)
+	-- 👋 COPY BUTTON (CROSS PLATFORM)
 	-- =========================
 	local textToCopy = "https://discord.gg/3ZY3ruDW"
 	
