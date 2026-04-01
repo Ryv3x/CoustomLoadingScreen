@@ -32,7 +32,7 @@ G2L["4"]["FontFace"] = Font.new([[rbxasset://fonts/families/GothamSSm.json]], En
 G2L["4"]["TextColor3"] = Color3.fromRGB(231, 231, 255);
 G2L["4"]["BackgroundTransparency"] = 1;
 G2L["4"]["Size"] = UDim2.new(1, 0, 0.08, 0);
-G2L["4"]["Text"] = [[EFTB DUPE SYSTEM]];
+G2L["4"]["Text"] = [[EFTB MYTRIX DUPE]];
 G2L["4"]["Name"] = [[Header]];
 G2L["4"]["Position"] = UDim2.new(0, 0, 0.39549, 0);
 
